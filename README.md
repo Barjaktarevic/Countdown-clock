@@ -1,5 +1,5 @@
 # Countdown-clock
-Project made following a ZTM tutorial with some additions of my own and using postCSS instead. Hosted on Netlify: [Countdown Clock](https://barjaktarevic-countdown.netlify.app/, 'Click to visit the site')
+Project made following a ZTM tutorial with some additions of my own and using postCSS instead. Hosted on Netlify: [Countdown Clock](https://barjaktarevic-countdown.netlify.app/ 'Click to visit the site')
 
 ## Useful things I've learned working on this mini-project
 + How to set up a postCSS environment using vite and how to set up the postCSS config file:
